@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "quay-mcp-server": {
+      "command": ["./bin/quay-mcp", "-url", "https://quay.io"],
+      "env": {}
+    }
+  }
+}
